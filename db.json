@@ -1,10 +1,10 @@
 
 {
   "getUserInfo": [
-    { "userId": 10012, "name": "徐世豪", "username": "江西彭于晏", "email": "1755883481@qq.com" },
+    { "userId": 10012, "name": "徐世豪", "username": "江西彭于晏", "email": "1755883481@qq.com" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 1, "body": "some wefwefwt", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
