@@ -1,11 +1,18 @@
 {
-	"posts": [{
-		"id": 22,
+	"posts": [
+		{
 		"userId": 10012,
 		"name": "徐世豪",
 		"username": "江西彭于晏",
 		"email": "1755883481@qq.com"
-	}],
+	        },
+		{
+		"userId": 10012,
+		"name": "张三",
+		"username": "江西武大郎",
+		"email": "17583481@qq.com"
+	        },
+	],
 	"comments": [{
 			"id": 1,
 			"body": "why",
