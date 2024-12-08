@@ -1,9 +1,7 @@
 
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "getUserInfo": [
+    { "userId": 10012, "name": "徐世豪", "username": "江西彭于晏", "email": "1755883481@qq.com" },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
